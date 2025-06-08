@@ -110,6 +110,6 @@ Make sure you have your dataset properly labeled and structured.
 * 📱 Mobile/web-based deployment using TensorFlow Lite or ONNX
 * 🧪 Real-time fracture detection from live scans or camera input
 
----
+--
 
 
