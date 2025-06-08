@@ -6,7 +6,7 @@ Welcome to the **Fracture Detection Model** – an AI-powered solution designed 
 
 ## 🧠 Project Overview
 
-With growing demands in the healthcare sector and increasing workload on radiologists, this model aims to:
+With growing demands in the healthcare sector and increasing workload on radiologists,  this model aims to:
 
 * ✅ Automate fracture detection in X-ray images
 * ✅ Improve diagnostic accuracy and reduce oversight
